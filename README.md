@@ -40,10 +40,10 @@ pip install scarp
 ## Usage
 
 Please checkout the tutorials at
-[here](https://github.com/Wu-Lab/SCARP/Vignettes/).
+[here](https://github.com/Wu-Lab/SCARP/tree/master/Vignettes).
 
 ### 1. Preparing your scATAC-seq data in h5ad format
-You can downloaded a example data from [here](https://github.com/Wu-Lab/SCARP/Example_data/).
+You can downloaded a example data from [here](https://github.com/Wu-Lab/SCARP/tree/master/Example_data/).
 ```sh
 import scanpy as sc
 ```
