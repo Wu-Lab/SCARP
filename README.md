@@ -11,7 +11,7 @@ Incorporating network diffusion and peak location information for better single-
 ## Pipeline
 <p align="center">
   <a href="https://github.com/Wu-Lab/SCARP/">
-    <img src="images/SCARP.png" alt="Logo">
+    <img src="images/SCARP.svg" alt="Logo">
   </a>
 </p>
 <br />
